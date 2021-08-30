@@ -1,6 +1,6 @@
 # granulometria  
 Dashboard de Análise Granulométrica para Geologia  
-Disponível nesse [link](https://granulometria.herokuapp.com/)  
+Implementado em granulometria.herokuapp.com/  
 Tecnologias:  
 * Python
 * Pandas
