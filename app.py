@@ -58,8 +58,8 @@ app.layout = html.Div([
                 data=df_example.to_dict('records')
             ), sm=8, md=5, lg=4, style={'padding': '0.5rem'}),
             dbc.Col(html.Ul([
-                html.Li('Os arquivos dever ter extensão .xls ou .csv'),
-                html.Li('As três primeiras colunas devem conter os valuees da Peneira, Abertura e Massa Retida, mas não necessariamente com esses nomes'),
+                html.Li('Os arquivos devem ter extensão .xls ou .csv'),
+                html.Li('As três primeiras colunas devem conter os valores de Peneira, Abertura e Massa Retida, mas não necessariamente com esses nomes'),
                 html.Li('Pode ser utilizados ponto ou vírgula como separador decimal')
             ]), sm=8, md=5, lg=4, style={'padding': '0.5rem'})
         ])
