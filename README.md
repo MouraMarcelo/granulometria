@@ -1,7 +1,9 @@
 # granulometria  
 Dashboard de Análise Granulométrica para Geologia  
 Implementado em [granulometria](https://granulometria.herokuapp.com/)  
-Tecnologias:  
+
+
+## Dependências:  
 * Python
 * Pandas
 * Plotly
